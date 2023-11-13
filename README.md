@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Minerva07
+- 👋 Hi, I’m @Mary Surekha S
 - 👀 I’m interested in doing jobs where there is a place to create something logically
 - 🌱 I’m currently learning many things clearly 
 - 💞️ I’m looking to collaborate on FPGA design using VHDL
