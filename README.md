@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mary Surekha Sankuru
-- 👀 I’m interested in creating applications of Image processing using Computer Vision and Machine Learning
-- 🌱 I worked on several Image processing and Machine Learning projects.
+- 👋 Hi, I’m Mary Surekha Sankuru
+- 👀 I hold a master's degree in the specialization of Signal Processing and Machine Learning and interested in creating applications of Image processing using Computer Vision and Machine Learning
+- 🌱 I worked on several Image processing and Machine Learning projects such as Hyper spectal Image restoration and Hyperspectral - Multispectral Fusion. Structured Hyperspectral data using Tensor decomposition and applied efficient optimization techniques to solve non convex probelms.
 - 💞️ I'm experienced in FPGA design using VHDL and embedded systems.
 - 📫 How to reach me : mail - surekhasankuru03@gmail.com
 
